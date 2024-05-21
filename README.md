@@ -11,6 +11,7 @@ class Aklto(Lazybones):
         }
 
         self.tech = [
+            'NLP'
             'DataScience',
             'Python',
             'C',
