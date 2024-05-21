@@ -1,16 +1,30 @@
-## Hi there 👋
+```python
+from personality_types import slacker
+from universities.russia import PlekhanovUniversity
+from technologies import *
 
-<!--
-**aklto/aklto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Aklto(Lazybones):
+    def __init__(self):
+        self.about = {
+            'name': 'Vitalii Novokshonov',
+            'study': PlekhanovUniversity
+        }
 
-Here are some ideas to get you started:
+        self.tech = [
+            'DataScience',
+            'Python',
+            'C',
+            'Rust',
+            'LaTeX',
+            'Redis'
+            'postgreSQL',
+            'Git',
+            'Unix',
+            'Json',
+        ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__ == '__main__':
+    aklto = Aklto()
+    print(aklto.about)
+    print(aklto.tech)
+```
