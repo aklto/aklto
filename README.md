@@ -1,3 +1,5 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aklto&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aklto&theme=algolia&utcOffset=8)
 ```python
 from personality_types import slacker
 from universities.russia import PlekhanovUniversity
@@ -29,3 +31,6 @@ if __name__ == '__main__':
     print(aklto.about)
     print(aklto.tech)
 ```
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aklto&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aklto&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aklto&theme=algolia)
