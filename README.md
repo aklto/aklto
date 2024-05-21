@@ -1,3 +1,4 @@
+https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg
 ```python
 from personality_types import slacker
 from universities.russia import PlekhanovUniversity
