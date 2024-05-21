@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vitalii</h1>
-<h3 align="center">Data Science developer from Armenia</h3>
+<h1 align="center">Hi, I'm Vitalii</h1>
+<h3 align="center">Data Science developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aklto&label=Profile%20views&color=0e75b6&style=flat" alt="aklto" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,7 +44,8 @@ if __name__ == '__main__':
     print(aklto.tech)
 ```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aklto&show_icons=true&locale=en&layout=compact" alt="aklto" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aklto&show_icons=true&locale=en" alt="aklto" /></p>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aklto&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aklto&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aklto&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aklto&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aklto&theme=algolia)
