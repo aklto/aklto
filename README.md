@@ -14,7 +14,7 @@ class Aklto(Lazybones):
         }
 
         self.tech = [
-            'NLP'
+            'NLP',
             'DataScience',
             'Python',
             'C',
@@ -24,7 +24,7 @@ class Aklto(Lazybones):
             'postgreSQL',
             'Git',
             'Unix',
-            'Json',
+            'Json'
         ]
 
 if __name__ == '__main__':
