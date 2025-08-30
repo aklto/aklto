@@ -3,14 +3,12 @@
 
 ```python
 from personality_types import slacker
-from universities.russia import PlekhanovUniversity
 from technologies import *
 
 class Aklto(Lazybones):
     def __init__(self):
         self.about = {
-            'name': 'Vitalii Novokshonov',
-            'study': PlekhanovUniversity
+            'name': 'Vitalii Novokshonov'
         }
 
         self.tech = [
