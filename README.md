@@ -34,7 +34,9 @@ if __name__ == '__main__':
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/arkamraw" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/arkamraw" height="30" width="40" /></a>
+    
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vitalii-novokshonov-79313024b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitalii-novokshonov-79313024b/" height="30" width="40" /></a>
+
 <a href="https://medium.com/https://medium.com/@arkam.raw" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@arkam.raw" height="30" width="40" /></a>
 </p>
 
